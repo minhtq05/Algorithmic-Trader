@@ -21,7 +21,7 @@ At the moment, our main tech stack includes:
 - Data + APIs: 
     - Yahoo Finance (the only good api I know, please suggest anything better if you know).
 - GUI: 
-    - DearPyGUI (based on ImGUI) for speed and simplicity
+    - Web with Streamplit 
 
 ## Usage 
 To get started with our application, follow these steps:
